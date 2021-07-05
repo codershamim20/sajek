@@ -1,0 +1,43 @@
+body{
+    font-family: 'Lobster', cursive;
+    background-image: url(images/1.JPG);
+    background-size: cover;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+p {
+    padding-left: 20%;
+}
+a{
+    padding-left: 20%;
+}
+.photo-galary{
+    /* display: flex; */
+    /* width: 50%; */
+    align-items: center;
+    padding-left: 30%;
+}
+.link-button{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: crimson ;
+    padding: 5px 40px;
+    margin-left: 20%;
+}
+.g1{
+    display: flex;
+    width: 200px;
+    height:200px;
+}
+.g2{
+    display: flex;
+    width: 200px;
+    height:200px;
+}
+.g3{
+    display: flex;
+    width: 200px;
+    height:200px;
+}
